@@ -1,0 +1,5 @@
+summary: Clone of cat(1) with syntax highlighting and Git integration
+webpage: https://github.com/sharkdp/bat
+version: 0.23.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/bat-0.23.0-linux-aarch64.tar.xz 
+bin-sha: a82ca5f9e06999f4792d9f155ea17679cc59c307d8669aaa0277ea8b64440313
